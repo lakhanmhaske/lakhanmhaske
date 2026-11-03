@@ -1,6 +1,6 @@
 ### Hi there, I'm Lakhan Gautam Mhaske 👋
 
-I am a **Database Developer and Software Engineer** with over 4 years of professional experience specializing in the healthcare IT domain, database architecture, hospital management systems (HMS), and complex reporting workflows.
+I am a **Database Developer and Software Engineer** with over 5 years of professional experience specializing in the healthcare IT domain, database architecture, hospital management systems (HMS), and complex reporting workflows.
 
 #### 🛠️ Tech Stack & Expertise
 * **Databases & Query Engineering:** MS SQL Server (Stored Procedures, Views, Triggers, Indexes, T-SQL, Column-Level Encryption)
